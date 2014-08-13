@@ -1,4 +1,4 @@
-# Workshop de Nodejs en @eClass por @quest
+# Workshop de Nodejs
 
 Workshop realizado por @quest con el fin de conocer y aprender a trabajar con Nodejs junto con NPM, Express, Jade, Socket.io y bower.
 
@@ -17,3 +17,8 @@ Workshop realizado por @quest con el fin de conocer y aprender a trabajar con No
 
 ## Agradecimientos
 A Juan Pablo Barrientos (@juanpablob) por el front
+
+## Instalación
+`npm install`
+`bower install`
+node app.js
