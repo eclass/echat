@@ -1,0 +1,5 @@
+assets/components
+node_modules
+Icon
+.DS_Store
+npm-debug.log
