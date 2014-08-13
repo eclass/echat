@@ -13,7 +13,7 @@ Workshop realizado por [@quest](https://github.com/quest) con el fin de conocer 
 ## Información del talles
 - ¿Dónde?: Oficinas eClass
 - ¿Cuándo?: 5 Agosto 2014
-- ¿Quén?: Victor San Martin <victor@eclass.cl> [@quest](https://github.com/quest)
+- ¿Quén?: Victor San Martin ([@quest](https://github.com/quest))
 
 ## Agradecimientos
 A Juan Pablo Barrientos ([@juanpablob](https://github.com/juanpablob)) por el front
